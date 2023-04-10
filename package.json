@@ -1,0 +1,28 @@
+{
+  "name": "fxhash-params-project-fetcher",
+  "version": "0.0.1",
+  "description": "Something to go grab all the hashes and params from an fxhash project, based on project ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/fxhash-params-project-fetcher.git"
+  },
+  "keywords": [
+    "fxhash"
+  ],
+  "author": "revdancatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/fxhash-params-project-fetcher/issues"
+  },
+  "homepage": "https://github.com/revdancatt/fxhash-params-project-fetcher#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
